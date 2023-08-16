@@ -1,0 +1,2 @@
+note that the default scaling for character sprites will be -33% from each side ( left and right ) of a 1920x1080 image, yieling a 652x1080 Image
+Character sprite is to be centered with the point of the chin ( in a head-on orientation ) taken to be the center
